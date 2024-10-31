@@ -1,0 +1,10 @@
+{
+  "landingPage": "\/wp-admin\/options-general.php?page=really-simple-security",
+  "steps": [
+    {
+      "step": "login",
+      "username": "admin",
+      "password": "password"
+    }
+  ]
+}
